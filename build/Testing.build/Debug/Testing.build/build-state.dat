@@ -1,0 +1,265 @@
+TTesting
+v7
+r0
+t318426121.080016
+cCheck dependencies
+cProcessInfoPlistFile /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCopyTiffFile /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/Testing.tiff Testing.tiff
+cCompileXIB /Users/linus/Documents/Projekt/MacRubyTesting/English.lproj/Testing.xib
+cCopyPlistFile /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/Info.plist Info.plist
+cCpResource build/Debug/Testing.prefPane/Contents/Resources/PrefPane.rb PrefPane.rb
+cCpResource build/Debug/Testing.prefPane/Contents/Resources/Main.rb Main.rb
+cProcessPCH /var/folders/1f/1fUhwDPOEbKkKMwpnG54GU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PrefPane_Prefix-byowztcbhlottnhdqgdlctvkcofr/PrefPane_Prefix.pch.gch PrefPane_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Testing.build/Debug/Testing.build/Objects-normal/x86_64/PrefPane.o /Users/linus/Documents/Projekt/MacRubyTesting/PrefPane.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/MacOS/Testing normal x86_64
+cTouch /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004D29792F0000000000000106
+t1294563631
+s262
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004D3BF08400000000014E3B90
+t1295773828
+s21904272
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004C44DF2000000000000017ED
+t1279581984
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/PreferencePanes.framework/Headers/PreferencePanes.h
+c000000004BE27C890000000000000098
+t1273134217
+s152
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/PreferencePanes.framework/PreferencePanes
+c000000004C4E8B5F00000000000BA030
+t1280215903
+s761904
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/English.lproj/InfoPlist.strings
+c000000004D4A946500000000000000B8
+t1296733285
+s184
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/English.lproj/Testing.xib
+c000000004D4A94650000000000009278
+t1296733285
+s37496
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/Info.plist
+c000000004D4A946500000000000003F3
+t1296733285
+s1011
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/Main.rb
+c000000004D4A946500000000000000E2
+t1296733285
+s226
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/PrefPane.m
+c000000004D4A946500000000000001E2
+t1296733285
+s482
+i<MacRuby/MacRuby.h>
+i<PreferencePanes/PreferencePanes.h>
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/PrefPane.rb
+c000000004D4A9465000000000000015E
+t1296733285
+s350
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/PrefPane_Prefix.pch
+c000000004D4A946500000000000000BC
+t1296733285
+s188
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/Testing.tiff
+c000000004D4A9465000000000000075E
+t1296733285
+s1886
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane
+t1296733321
+s102
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Info.plist
+t1296733317
+s944
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/MacOS/Testing
+t1296733321
+s9728
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/English.lproj/InfoPlist.strings
+t1296733317
+s184
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/English.lproj/Testing.nib
+t1296733317
+s4394
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/Info.plist
+t1296733317
+s1011
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/Main.rb
+t1296733317
+s226
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/PrefPane.rb
+t1296733317
+s350
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/Testing.tiff
+t1296733317
+s1886
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/build/Testing.build/Debug/Testing.build/Objects-normal/x86_64/PrefPane.o
+t1296733320
+s15232
+
+N/Users/linus/Documents/Projekt/MacRubyTesting/build/Testing.build/Debug/Testing.build/Objects-normal/x86_64/Testing.LinkFileList
+c000000004D4A94850000000000000077
+t1296733317
+s119
+
+N/var/folders/1f/1fUhwDPOEbKkKMwpnG54GU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PrefPane_Prefix-byowztcbhlottnhdqgdlctvkcofr/PrefPane_Prefix.pch.gch
+t1296733320
+s53572656
+
+NInfo.plist
+c000000004D4A946500000000000003F3
+t1296733285
+s1011
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318426117#318426117#0(106"[WARN]Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'Info.plist'.1(22@99"Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'Info.plist'.318426117#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Testing.build/Debug/Testing.build/Objects-normal/x86_64/PrefPane.o /Users/linus/Documents/Projekt/MacRubyTesting/PrefPane.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318426120.784104
+e318426120.979668
+r1
+xCompileC
+xbuild/Testing.build/Debug/Testing.build/Objects-normal/x86_64/PrefPane.o
+x/Users/linus/Documents/Projekt/MacRubyTesting/PrefPane.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/linus/Documents/Projekt/MacRubyTesting/PrefPane.m318426120#318426120#0(0"0(0#0#56"/Users/linus/Documents/Projekt/MacRubyTesting/PrefPane.m8600769600#1162"    cd /Users/linus/Documents/Projekt/MacRubyTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/linus/Documents/Projekt/MacRubyTesting/build/Testing.build/Debug/Testing.build/Testing.hmap -F/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug -I/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/include -I/Users/linus/Documents/Projekt/MacRubyTesting/build/Testing.build/Debug/Testing.build/DerivedSources/x86_64 -I/Users/linus/Documents/Projekt/MacRubyTesting/build/Testing.build/Debug/Testing.build/DerivedSources -include /var/folders/1f/1fUhwDPOEbKkKMwpnG54GU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PrefPane_Prefix-byowztcbhlottnhdqgdlctvkcofr/PrefPane_Prefix.pch -c /Users/linus/Documents/Projekt/MacRubyTesting/PrefPane.m -o /Users/linus/Documents/Projekt/MacRubyTesting/build/Testing.build/Debug/Testing.build/Objects-normal/x86_64/PrefPane.o0#
+
+CCompileXIB /Users/linus/Documents/Projekt/MacRubyTesting/English.lproj/Testing.xib
+s318426117.339621
+e318426117.665464
+r1
+xCompileXIB
+x/Users/linus/Documents/Projekt/MacRubyTesting/English.lproj/Testing.xib
+lSLF07#2@36"CompileXIB English.lproj/Testing.xib318426117#318426117#0(0"0(0#0#71"/Users/linus/Documents/Projekt/MacRubyTesting/English.lproj/Testing.xib8603501376#388"    cd /Users/linus/Documents/Projekt/MacRubyTesting    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/English.lproj/Testing.nib /Users/linus/Documents/Projekt/MacRubyTesting/English.lproj/Testing.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyPlistFile /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/Info.plist Info.plist
+s318426117.368139
+e318426117.403779
+r1
+xCopyPlistFile
+x/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/Info.plist
+xInfo.plist
+lSLF07#2@15"Copy Info.plist318426117#318426117#0(0"0(0#0#56"/Users/linus/Documents/Projekt/MacRubyTesting/Info.plist8604043104#258"    cd /Users/linus/Documents/Projekt/MacRubyTesting    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist Info.plist --outdir /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources0#
+
+CCopyStringsFile /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s318426117.285132
+e318426117.368055
+r1
+xCopyStringsFile
+x/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings318426117#318426117#0(0"0(0#0#77"/Users/linus/Documents/Projekt/MacRubyTesting/English.lproj/InfoPlist.strings8601110304#385"    cd /Users/linus/Documents/Projekt/MacRubyTesting    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/English.lproj0#
+
+CCopyTiffFile /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/Testing.tiff Testing.tiff
+s318426117.286908
+e318426117.339538
+r1
+xCopyTiffFile
+x/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources/Testing.tiff
+xTesting.tiff
+lSLF07#2@17"Copy Testing.tiff318426117#318426117#0(0"0(0#0#58"/Users/linus/Documents/Projekt/MacRubyTesting/Testing.tiff8599576256#259"    cd /Users/linus/Documents/Projekt/MacRubyTesting    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff Testing.tiff --outdir /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources0#
+
+CCpResource build/Debug/Testing.prefPane/Contents/Resources/Main.rb Main.rb
+s318426117.405518
+e318426117.417717
+r1
+xCpResource
+xbuild/Debug/Testing.prefPane/Contents/Resources/Main.rb
+xMain.rb
+lSLF07#2@12"Copy Main.rb318426117#318426117#0(0"0(0#0#53"/Users/linus/Documents/Projekt/MacRubyTesting/Main.rb8604038208#349"    cd /Users/linus/Documents/Projekt/MacRubyTesting    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/linus/Documents/Projekt/MacRubyTesting/Main.rb /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources0#
+
+CCpResource build/Debug/Testing.prefPane/Contents/Resources/PrefPane.rb PrefPane.rb
+s318426117.403857
+e318426117.421998
+r1
+xCpResource
+xbuild/Debug/Testing.prefPane/Contents/Resources/PrefPane.rb
+xPrefPane.rb
+lSLF07#2@16"Copy PrefPane.rb318426117#318426117#0(0"0(0#0#57"/Users/linus/Documents/Projekt/MacRubyTesting/PrefPane.rb8604859168#353"    cd /Users/linus/Documents/Projekt/MacRubyTesting    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/linus/Documents/Projekt/MacRubyTesting/PrefPane.rb /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Resources0#
+
+CLd /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/MacOS/Testing normal x86_64
+s318426120.979748
+e318426121.075754
+r1
+xLd
+x/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/MacOS/Testing
+xnormal
+xx86_64
+lSLF07#2@102"Link /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/MacOS/Testing318426120#318426121#0(0"0(0#0#0"8602922944#636"    cd /Users/linus/Documents/Projekt/MacRubyTesting    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug -F/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug -filelist /Users/linus/Documents/Projekt/MacRubyTesting/build/Testing.build/Debug/Testing.build/Objects-normal/x86_64/Testing.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework PreferencePanes -framework MacRuby -o /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/MacOS/Testing0#
+
+CProcessInfoPlistFile /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Info.plist Info.plist
+s318426117.272448
+e318426117.285039
+r1
+xProcessInfoPlistFile
+x/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist318426117#318426117#0(0"0(0#0#56"/Users/linus/Documents/Projekt/MacRubyTesting/Info.plist27584981513797680#229"    cd /Users/linus/Documents/Projekt/MacRubyTesting    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane/Contents/Info.plist0#
+
+CProcessPCH /var/folders/1f/1fUhwDPOEbKkKMwpnG54GU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PrefPane_Prefix-byowztcbhlottnhdqgdlctvkcofr/PrefPane_Prefix.pch.gch PrefPane_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318426117.665611
+e318426120.783903
+r1
+xProcessPCH
+x/var/folders/1f/1fUhwDPOEbKkKMwpnG54GU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PrefPane_Prefix-byowztcbhlottnhdqgdlctvkcofr/PrefPane_Prefix.pch.gch
+xPrefPane_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile PrefPane_Prefix.pch318426117#318426120#0(0"0(0#0#65"/Users/linus/Documents/Projekt/MacRubyTesting/PrefPane_Prefix.pch8603697120#1054"    cd /Users/linus/Documents/Projekt/MacRubyTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/linus/Documents/Projekt/MacRubyTesting/build/Testing.build/Debug/Testing.build/Testing.hmap -F/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug -I/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/include -I/Users/linus/Documents/Projekt/MacRubyTesting/build/Testing.build/Debug/Testing.build/DerivedSources/x86_64 -I/Users/linus/Documents/Projekt/MacRubyTesting/build/Testing.build/Debug/Testing.build/DerivedSources -c /Users/linus/Documents/Projekt/MacRubyTesting/PrefPane_Prefix.pch -o /var/folders/1f/1fUhwDPOEbKkKMwpnG54GU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PrefPane_Prefix-byowztcbhlottnhdqgdlctvkcofr/PrefPane_Prefix.pch.gch0#
+
+CTouch /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane
+s318426121.075833
+e318426121.079962
+r1
+xTouch
+x/Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane
+lSLF07#2@80"Touch /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane318426121#318426121#0(0"0(0#0#0"8603327104#150"    cd /Users/linus/Documents/Projekt/MacRubyTesting    /usr/bin/touch -c /Users/linus/Documents/Projekt/MacRubyTesting/build/Debug/Testing.prefPane0#
+

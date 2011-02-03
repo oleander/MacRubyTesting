@@ -267,14 +267,16 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>089C166AFE841209C02AAC07</string>
+								<string>19C28FB8FE9D52D311CA2CBB</string>
 								<string>1C37FABC05509CD000000102</string>
 								<string>1CC0EA4004350EF90041110B</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>14</integer>
-									<integer>13</integer>
+									<integer>6</integer>
+									<integer>5</integer>
+									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
@@ -332,14 +334,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {580, 277}}</string>
+								<string>{{0, 0}, {580, 269}}</string>
 								<key>RubberWindowFrame</key>
 								<string>267 197 788 504 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>277pt</string>
+							<string>269pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -352,14 +354,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 282}, {580, 181}}</string>
+								<string>{{0, 274}, {580, 189}}</string>
 								<key>RubberWindowFrame</key>
 								<string>267 197 788 504 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>181pt</string>
+							<string>189pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -378,9 +380,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>15FD086A12F9864800FDD668</string>
+				<string>153FAE9512FACC1000237FB4</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>15FD086B12F9864800FDD668</string>
+				<string>153FAE9612FACC1000237FB4</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -519,7 +521,7 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>15FD086D12F9864800FDD668</string>
-		<string>/Users/linus/Desktop/Testing/Testing.xcodeproj</string>
+		<string>/Users/linus/Documents/Projekt/MacRubyTesting/Testing.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>267 197 788 504 0 0 1280 778 </string>
@@ -599,7 +601,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>15FD086D12F9864800FDD668</string>
-				<string>15FD086E12F9864800FDD668</string>
+				<string>153FAE9712FACC1000237FB4</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
