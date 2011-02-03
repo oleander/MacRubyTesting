@@ -8,10 +8,15 @@
 
 framework 'Cocoa'
 
+$LOAD_PATH.unshift File.expand_path('../', __FILE__)
+
+require 'Main'
+
 class PrefPane < NSPreferencePane
 
   # callback for when the preference pane view is loaded
   def mainViewDidLoad
+	puts "FOOO!"
   end 
 
 end
